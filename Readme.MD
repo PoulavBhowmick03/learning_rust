@@ -3,16 +3,16 @@
 ## TOC
 - [Rust learning](#rust-learning)
   - [TOC](#toc)
-  - [1. Introduction to Rust {#introduction}](#1-introduction-to-rust-introduction)
+  - [1. Introduction to Rust](#1-introduction-to-rust)
   - [2. Why Rust {#why-rust}](#2-why-rust-why-rust)
-  - [3. Initialising and Setting up {#setup}](#3-initialising-and-setting-up-setup)
-  - [4. Variables {#variables}](#4-variables-variables)
-  - [5. Conditionals {#conditionals}](#5-conditionals-conditionals)
-  - [6. Loops {#loops}](#6-loops-loops)
-  - [7. Functions {#functions}](#7-functions-functions)
-  - [8. Memory Management {#memory}](#8-memory-management-memory)
+  - [3. Initialising and Setting up](#3-initialising-and-setting-up)
+  - [4. Variables](#4-variables)
+  - [5. Conditionals](#5-conditionals)
+  - [6. Loops](#6-loops)
+  - [7. Functions](#7-functions)
+  - [8. Memory Management](#8-memory-management)
 
-## 1. Introduction to Rust {#introduction}
+## 1. Introduction to Rust
 > Rust is a programming language that focuses on speed, safety and concurrency. 
 > It is memory safe, allowing it to be extremely fast without having garbage collection.
 > This is my learning of the Rust programming language and the steps I took(am taking) to lean Rust.
@@ -23,24 +23,24 @@
 2. Reliability
 3. Productivity
 
-## 3. Initialising and Setting up {#setup}
+## 3. Initialising and Setting up
 
 
-## 4. Variables {#variables}
-
-
-
-## 5. Conditionals {#conditionals}
+## 4. Variables
 
 
 
-## 6. Loops {#loops}
+## 5. Conditionals
 
 
 
-## 7. Functions {#functions}
+## 6. Loops
 
 
 
-## 8. Memory Management {#memory}
+## 7. Functions
+
+
+
+## 8. Memory Management
 
